@@ -29,3 +29,11 @@ Tourism is one of the most relevant sectors globally as it employs millions of p
 | Dubai| To inhale contemporary sightseeing attractions| 5 |
 | Srilanka| Indispensable ingredient for many of its fabulous food | 3 |
 | France | Articulate the culture and arts | 7 |
+
+---
+
+ QUOTATION  
+
+> Trying is the first step toward failure. -*Homer Simpson*
+
+> Don't ask if your dream is crazy, ask if it's crazy enough. -*Lena Waithe*
