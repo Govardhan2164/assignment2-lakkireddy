@@ -11,4 +11,6 @@ Playing cricket has helped me cultivate traits like grit, willpower, and teamwor
      2.M.S Dhoni
      3.Rohit Sharma
 
-     
+* Pakistan
+* South Africa
+* Australia
