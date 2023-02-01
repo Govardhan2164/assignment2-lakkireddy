@@ -16,3 +16,16 @@ Playing cricket has helped me cultivate traits like grit, willpower, and teamwor
 * Australia
 
 [https://MyAbout.com](AboutMe.md)
+
+---
+
+Tourism
+
+Tourism is one of the most relevant sectors globally as it employs millions of people, which makes them dependent on it for their livelihood.
+
+| Name of the country | Reason of visit | No of days  |
+| --- | --- | ---: |
+| India | To Experience the different cultures | 10 |
+| Dubai| To inhale contemporary sightseeing attractions| 5 |
+| Srilanka| Indispensable ingredient for many of its fabulous food | 3 |
+| France | Articulate the culture and arts | 7 |
