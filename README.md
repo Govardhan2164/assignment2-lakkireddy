@@ -37,3 +37,17 @@ Tourism is one of the most relevant sectors globally as it employs millions of p
 > Trying is the first step toward failure. -*Homer Simpson*
 
 > Don't ask if your dream is crazy, ask if it's crazy enough. -*Lena Waithe*
+
+---
+
+FENCING
+
+> Give Cufón a higher z-index
+
+[stackflow](https://stackoverflow.com/questions/4739732/give-cuf%C3%B3n-a-higher-z-index)
+
+```
+<h1>Business Solutions</h1>
+<h2>Business Insurance</h2>
+```
+[html-snippet](https://css-tricks.com/snippets/html/cufon-101/)
