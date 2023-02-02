@@ -47,7 +47,11 @@ FENCING
 [stackflow](https://stackoverflow.com/questions/4739732/give-cuf%C3%B3n-a-higher-z-index)
 
 ```
+<html>
+<body>
 <h1>Business Solutions</h1>
 <h2>Business Insurance</h2>
+</body>
+</html>
 ```
 [html-snippet](https://css-tricks.com/snippets/html/cufon-101/)
